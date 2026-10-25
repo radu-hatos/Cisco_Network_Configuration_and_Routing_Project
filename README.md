@@ -7,6 +7,7 @@
 <p align="center">
   📄 <b>Download PDF Documentation:</b><br>
   [ EN ] <a href="https://github.com/radu-hatos/Cisco_Network_Configuration_and_Routing_Project/blob/main/Cisco_Network_Configuration_and_Routing_Project.pdf"><b>[ English Version PDF ]</b></a>
+  [ ES ] <a href="https://github.com/radu-hatos/Cisco_Network_Configuration_and_Routing_Project/blob/main/Proyecto_Configuracion_y_Enrutamiento_de_Redes_Cisco.pdf"><b>[ Versión en Español PDF ]</b></a>
 </p>
 
 <hr>
@@ -123,10 +124,3 @@ I tested end-to-end connectivity with ping between a RED host and a BLUE host. T
 ## 6. Tools Used
 
 - Cisco Packet Tracer
-
----
-
-<p align="center">
-  📄 <b>Download PDF Documentation:</b><br>
-  [ EN ] <a href="https://github.com/radu-hatos/Cisco_Network_Configuration_and_Routing_Project/blob/main/Cisco_Network_Configuration_and_Routing_Project.pdf"><b>[ English Version PDF ]</b></a>
-</p>
