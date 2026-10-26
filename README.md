@@ -124,3 +124,12 @@ I tested end-to-end connectivity with ping between a RED host and a BLUE host. T
 ## 6. Tools Used
 
 - Cisco Packet Tracer
+  
+---
+
+## 7. Cisco Packet Tracer Lab File
+
+<p align="center">
+  🌐 <b>Open or Download Lab File:</b><br>
+  <a href="https://github.com/radu-hatos/Cisco_Network_Configuration_and_Routing_Project/blob/main/Cisco_Network_Configuration_and_Routing_Project.pkt"><b>[ Cisco Packet Tracer .pkt Lab File ]</b></a>
+</p
