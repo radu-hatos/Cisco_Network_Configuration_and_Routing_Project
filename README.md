@@ -125,7 +125,6 @@ I tested end-to-end connectivity with ping between a RED host and a BLUE host. T
 
 - Cisco Packet Tracer
   
----
 
 ## 7. Cisco Packet Tracer Lab File
 
